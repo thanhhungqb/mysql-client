@@ -24,3 +24,5 @@
 	
 	mysqldump
 
+Github link: https://github.com/thanhhungqb/mysql-client
+
